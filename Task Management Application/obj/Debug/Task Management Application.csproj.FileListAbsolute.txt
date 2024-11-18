@@ -1,0 +1,58 @@
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\bin\Debug\Task Management Application.exe.config
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\bin\Debug\Task Management Application.exe
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\bin\Debug\Task Management Application.pdb
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\bin\Debug\EntityFramework.dll
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\bin\Debug\EntityFramework.xml
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\Task Management Application.csproj.AssemblyReference.cache
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\LoginPage.g.cs
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\MainWindow.g.cs
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\UserManagmentPage.g.cs
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\ViewTaskPage.g.cs
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\App.g.cs
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\Task Management Application_Content.g.cs
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\Task Management Application_MarkupCompile.cache
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\Task Management Application_MarkupCompile.lref
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\App.baml
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\LoginPage.baml
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\MainWindow.baml
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\UserManagmentPage.baml
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\ViewTaskPage.baml
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\Task Management Application.g.resources
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\Task_Management_Application.Properties.Resources.resources
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\Task Management Application.csproj.GenerateResource.cache
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\Task Management Application.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\Task Man.17844DD5.Up2Date
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\Task Management Application.exe
+C:\Users\ahmed.kamel\source\repos\Task Management Application\Task Management Application\obj\Debug\Task Management Application.pdb
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\bin\Debug\Task Management Application.exe.config
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\bin\Debug\Task Management Application.exe
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\bin\Debug\Task Management Application.pdb
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\bin\Debug\EntityFramework.dll
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\bin\Debug\EntityFramework.xml
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\Task Management Application.csproj.AssemblyReference.cache
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\LoginPage.g.cs
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\MainWindow.g.cs
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\UserManagmentPage.g.cs
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\ViewTaskPage.g.cs
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\App.g.cs
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\Task Management Application_Content.g.cs
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\Task Management Application_MarkupCompile.cache
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\Task Management Application_MarkupCompile.lref
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\App.baml
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\LoginPage.baml
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\MainWindow.baml
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\UserManagmentPage.baml
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\ViewTaskPage.baml
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\Task Management Application.g.resources
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\Task_Management_Application.Properties.Resources.resources
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\Task Management Application.csproj.GenerateResource.cache
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\Task Management Application.csproj.CoreCompileInputs.cache
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\Task Man.17844DD5.Up2Date
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\Task Management Application.exe
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\Task Management Application.pdb
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\SignUP.g.cs
+C:\Users\ritaj.hassan\Desktop\RitajHassan0523024\Task Management Application\Task Management Application\obj\Debug\SignUP.baml

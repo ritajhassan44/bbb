@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TaskManagmentsysModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TasksTable">
+    <Key>
+      <PropertyRef Name="TaskID" />
+    </Key>
+    <Property Name="TaskID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TaskTitle" Type="String" MaxLength="80" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TaskDescription" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+    <Property Name="TaskStatus" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+    <Property Name="TaskDueDate" Type="DateTime" Precision="3" />
+    <Property Name="UserID" Type="Int32" />
+    <NavigationProperty Name="UserTable" Relationship="Self.FK__TasksTabl__UserI__3A81B327" FromRole="TasksTable" ToRole="UserTable" />
+  </EntityType>
+  <EntityType Name="UserTable">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="80" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserEmail" Type="String" MaxLength="80" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserPassword" Type="String" MaxLength="80" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserRole" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TasksTables" Relationship="Self.FK__TasksTabl__UserI__3A81B327" FromRole="UserTable" ToRole="TasksTable" />
+  </EntityType>
+  <Association Name="FK__TasksTabl__UserI__3A81B327">
+    <End Role="UserTable" Type="Self.UserTable" Multiplicity="0..1" />
+    <End Role="TasksTable" Type="Self.TasksTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserTable">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="TasksTable">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TaskManagmentsysEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TasksTables" EntityType="Self.TasksTable" />
+    <EntitySet Name="UserTables" EntityType="Self.UserTable" />
+    <AssociationSet Name="FK__TasksTabl__UserI__3A81B327" Association="Self.FK__TasksTabl__UserI__3A81B327">
+      <End Role="UserTable" EntitySet="UserTables" />
+      <End Role="TasksTable" EntitySet="TasksTables" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

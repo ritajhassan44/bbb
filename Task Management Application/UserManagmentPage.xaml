@@ -1,0 +1,42 @@
+﻿<Page x:Class="Task_Management_Application.UserManagmentPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Task_Management_Application"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="UserManagmentPage">
+
+    <!--<Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="300"/>
+        </Grid.RowDefinitions>
+        <Label Content="TaskID:" Grid.Row="0" Grid.Column="0" Style="{StaticResource Labels}"></Label>
+        <Label Content="Title:" Grid.Row="1" Grid.Column="0" Style="{StaticResource Labels}"></Label>
+        <Label Content="Description:" Grid.Row="2" Grid.Column="0" Style="{StaticResource Labels}"></Label>
+        <TextBox Name="taskid" Grid.Row="0" Grid.Column="0" Width="200" HorizontalAlignment="Right" Style="{StaticResource textbox}"></TextBox>
+        <TextBox Name="title" Grid.Row="1" Grid.Column="0" Width="200" HorizontalAlignment="Right" Style="{StaticResource textbox}" ></TextBox>
+        <TextBox Name="description" Grid.Row="2" Grid.Column="0" Width="200" HorizontalAlignment="Right" Style="{StaticResource textbox}"></TextBox>
+        <Label Content="Status:" Grid.Row="0" Grid.Column="1" Style="{StaticResource Labels}"></Label>
+        <Label Content="Email:" Grid.Row="1" Grid.Column="1" Style="{StaticResource Labels}"></Label>
+        <ComboBox Name="combobox" Grid.Row="0" Grid.Column="1" Width="100" Height="40" HorizontalAlignment="Right">
+            <ComboBoxItem>Completed</ComboBoxItem>
+            <ComboBoxItem>Pending</ComboBoxItem>
+            <ComboBoxItem>Progress</ComboBoxItem>
+        </ComboBox>
+        <TextBox Name="emailtext" Grid.Row="1" Grid.Column="1" Width="200" HorizontalAlignment="Right" Style="{StaticResource textbox}"></TextBox>
+        <Button Name="add" Content="Add" Grid.Column="0" Grid.Row="3" Width="80"  HorizontalAlignment="Left" Style="{StaticResource buttons}" Click="add_Click"></Button>
+        <Button Name="edite" Content="Edit" Grid.ColumnSpan="2" Grid.Row="2" Width="80"  HorizontalAlignment="Left" Style="{StaticResource buttons}" Margin="360,36,0,0" Grid.RowSpan="3" VerticalAlignment="Top"></Button>
+        <Button Name="delete" Content="Delete" Grid.Column="1" Grid.Row="3" Width="80"  HorizontalAlignment="Right" Style="{StaticResource buttons}" Click="delete_Click"></Button>
+        <DataGrid Name="datagridinfo" Grid.ColumnSpan="2" Background="Transparent" Grid.Row="4"></DataGrid>
+    </Grid>-->
+</Page>
